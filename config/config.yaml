@@ -43,15 +43,15 @@ platforms:
       expected_domain: "zhihu.com"
     # ── 可选增强源（启用前请确认你的 newsnow 实例支持，
     #    运行日志出现"未知平台"即删除对应项）──
-    # - id: "xueqiu-hotstock"
-    #   name: "雪球热股"
-    #   expected_domain: "xueqiu.com"
-    # - id: "gelonghui"
-    #   name: "格隆汇"
-    #   expected_domain: "gelonghui.com"
-    # - id: "36kr"
-    #   name: "36氪"
-    #   expected_domain: "36kr.com"
+     - id: "xueqiu-hotstock"
+       name: "雪球热股"
+       expected_domain: "xueqiu.com"
+     - id: "gelonghui"
+       name: "格隆汇"
+       expected_domain: "gelonghui.com"
+     - id: "36kr"
+       name: "36氪"
+       expected_domain: "36kr.com"
 
 # ── 数据源：RSS（英文一手 AI/科技信息源，配合自动翻译）──
 rss:
