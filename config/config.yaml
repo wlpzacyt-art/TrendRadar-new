@@ -165,7 +165,7 @@ storage:
 
 # ── AI 模型 ──
 ai:
-  model: "gemini/gemini-3.6-flash"  # 成本最优，高频调用无压力
+  model: "gemini/gemini-3.1-flash-lite"  # 成本最优，高频调用无压力
   api_key: ""                          # 务必使用环境变量 AI_API_KEY
   api_base: "https://generativelanguage.googleapis.com/v1beta"
   timeout: 120
