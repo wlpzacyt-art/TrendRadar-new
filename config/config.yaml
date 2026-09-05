@@ -48,9 +48,9 @@ platforms:
     #- id: "gelonghui"
     #  name: "格隆汇"
     #  expected_domain: "gelonghui.com"
-    - id: "36kr"
-      name: "36氪"
-      expected_domain: "36kr.com"
+    #- id: "36kr"
+    #  name: "36氪"
+    #  expected_domain: "36kr.com"
 
 
 # ── 数据源：RSS（英文一手 AI/科技信息源，配合自动翻译）──
